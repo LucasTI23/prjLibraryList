@@ -1,0 +1,5 @@
+c:\users\aluno\documents\visual studio 2013\Projects\BibliotecaLista\BibliotecaLista\bin\Debug\BibliotecaLista.dll
+c:\users\aluno\documents\visual studio 2013\Projects\BibliotecaLista\BibliotecaLista\bin\Debug\BibliotecaLista.pdb
+c:\users\aluno\documents\visual studio 2013\Projects\BibliotecaLista\BibliotecaLista\obj\Debug\BibliotecaLista.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2013\Projects\BibliotecaLista\BibliotecaLista\obj\Debug\BibliotecaLista.dll
+c:\users\aluno\documents\visual studio 2013\Projects\BibliotecaLista\BibliotecaLista\obj\Debug\BibliotecaLista.pdb
